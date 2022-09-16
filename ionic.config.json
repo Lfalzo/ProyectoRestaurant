@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoRestaurant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
